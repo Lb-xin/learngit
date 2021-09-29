@@ -1,3 +1,4 @@
 git status
 git diff
 git diff head
+git diff head -- file
