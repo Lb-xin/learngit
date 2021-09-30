@@ -1,1 +1,2 @@
+git push origin master
 once git push -u origin master => git push = git push origin master.
