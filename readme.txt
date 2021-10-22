@@ -6,4 +6,4 @@ Git is better than SVN.
 Creating a new branch is quick and simple.
 master:modified at origin/master.
 feature:git stash.
-modifed at local.
+fix local and remote conflict.
