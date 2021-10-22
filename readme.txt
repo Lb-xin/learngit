@@ -4,4 +4,5 @@ Git has a mutable index called stage.
 Git tracks changes of files.
 Git is better than SVN.
 Creating a new branch is quick and simple.
-modified at origin/master.
+master:modified at origin/master.
+feature:git stash.
