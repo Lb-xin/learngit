@@ -7,3 +7,4 @@ Creating a new branch is quick and simple.
 master:modified at origin/master.
 feature:git stash.
 git cherry-pick commit-id.
+normal merge.
